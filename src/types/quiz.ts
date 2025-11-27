@@ -9,7 +9,7 @@ export interface Question {
 
 export interface MonkeyProfile {
   name: string;
-  emoji: string;
+  image: string;
   description: string;
   traits: string[];
 }

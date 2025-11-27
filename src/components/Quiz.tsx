@@ -123,9 +123,13 @@ function IntroScreen({ onStart }: { onStart: () => void }) {
       </p>
       <div className="monkey-preview">
         {Object.values(data.monkeyTypes).map((monkey) => (
-          <span key={monkey.name} className="monkey-emoji" title={monkey.name}>
-            {monkey.emoji}
-          </span>
+          <img
+            key={monkey.name}
+            src={monkey.image}
+            alt={monkey.name}
+            className="monkey-thumb"
+            title={monkey.name}
+          />
         ))}
       </div>
       <button className="start-btn" onClick={onStart}>
@@ -151,7 +155,7 @@ function ResultScreen({ result, onRestart }: ResultProps) {
     <div className="result-screen">
       <h2>Tu es un...</h2>
       <div className="result-monkey">
-        <span className="result-emoji">{profile.emoji}</span>
+        <img src={profile.image} alt={profile.name} className="result-image" />
         <h1 className="result-name">{profile.name}</h1>
       </div>
       <p className="result-description">{profile.description}</p>
@@ -172,7 +176,8 @@ function ResultScreen({ result, onRestart }: ResultProps) {
             return (
               <div key={monkey} className="score-row">
                 <span className="score-label">
-                  {monkeyProfile.emoji} {monkeyProfile.name}
+                  <img src={monkeyProfile.image} alt={monkeyProfile.name} className="score-thumb" />
+                  {monkeyProfile.name}
                 </span>
                 <div className="score-bar-bg">
                   <div
