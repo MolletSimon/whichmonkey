@@ -14,7 +14,7 @@
         "macaque": 2,
         "baboon": 2,
         "tamarin": 1,
-        "mandrill": 1
+        "mandrill": -1
       }
     },
     {
@@ -24,14 +24,14 @@
       "scores": {
         "chimpanzee": -1,
         "bonobo": 2,
-        "gorilla": 0,
+        "gorilla": 1,
         "orangutan": 1,
-        "gibbon": 1,
+        "gibbon": 0,
         "capuchin": 0,
         "macaque": -1,
         "baboon": -2,
         "tamarin": 1,
-        "mandrill": -1
+        "mandrill": 0
       }
     },
     {
@@ -42,7 +42,7 @@
         "chimpanzee": 1,
         "bonobo": 1,
         "gorilla": 2,
-        "orangutan": -1,
+        "orangutan": 0,
         "gibbon": 2,
         "capuchin": 0,
         "macaque": 2,
@@ -59,12 +59,12 @@
         "chimpanzee": 1,
         "bonobo": 1,
         "gorilla": -1,
-        "orangutan": 2,
-        "gibbon": 0,
+        "orangutan": 1,
+        "gibbon": -1,
         "capuchin": 2,
-        "macaque": 1,
+        "macaque": 2,
         "baboon": 1,
-        "tamarin": 1,
+        "tamarin": 0,
         "mandrill": 0
       }
     },
@@ -73,16 +73,16 @@
       "text": "Je suis très fidèle en amour, un partenaire pour la vie.",
       "category": "couple",
       "scores": {
-        "chimpanzee": -1,
+        "chimpanzee": -2,
         "bonobo": -2,
-        "gorilla": 1,
-        "orangutan": 0,
+        "gorilla": 0,
+        "orangutan": -1,
         "gibbon": 2,
-        "capuchin": 0,
+        "capuchin": -1,
         "macaque": -1,
-        "baboon": -1,
-        "tamarin": 2,
-        "mandrill": -1
+        "baboon": -2,
+        "tamarin": 1,
+        "mandrill": -2
       }
     },
     {
@@ -94,7 +94,7 @@
         "bonobo": -1,
         "gorilla": 2,
         "orangutan": 0,
-        "gibbon": 1,
+        "gibbon": 2,
         "capuchin": 1,
         "macaque": 1,
         "baboon": 2,
@@ -113,10 +113,10 @@
         "orangutan": 2,
         "gibbon": 0,
         "capuchin": -1,
-        "macaque": -2,
+        "macaque": -1,
         "baboon": -1,
         "tamarin": -1,
-        "mandrill": 1
+        "mandrill": 2
       }
     },
     {
@@ -148,9 +148,9 @@
         "gibbon": 1,
         "capuchin": 2,
         "macaque": 0,
-        "baboon": 1,
+        "baboon": 0,
         "tamarin": 1,
-        "mandrill": 1
+        "mandrill": 0
       }
     },
     {
@@ -160,7 +160,7 @@
       "scores": {
         "chimpanzee": 0,
         "bonobo": 1,
-        "gorilla": -1,
+        "gorilla": 0,
         "orangutan": 2,
         "gibbon": 0,
         "capuchin": 1,
@@ -177,12 +177,12 @@
       "scores": {
         "chimpanzee": 1,
         "bonobo": 2,
-        "gorilla": -1,
+        "gorilla": 0,
         "orangutan": 0,
         "gibbon": 1,
         "capuchin": 2,
         "macaque": 1,
-        "baboon": 1,
+        "baboon": 0,
         "tamarin": 2,
         "mandrill": 0
       }
@@ -198,7 +198,7 @@
         "orangutan": 1,
         "gibbon": 1,
         "capuchin": -1,
-        "macaque": 1,
+        "macaque": 0,
         "baboon": 0,
         "tamarin": 1,
         "mandrill": 1
@@ -209,15 +209,15 @@
       "text": "Je préfère une relation de couple exclusive à des relations multiples.",
       "category": "couple",
       "scores": {
-        "chimpanzee": -1,
+        "chimpanzee": -2,
         "bonobo": -2,
-        "gorilla": 1,
-        "orangutan": 1,
+        "gorilla": -1,
+        "orangutan": 0,
         "gibbon": 2,
-        "capuchin": 0,
+        "capuchin": -1,
         "macaque": -1,
         "baboon": -2,
-        "tamarin": 2,
+        "tamarin": 1,
         "mandrill": -2
       }
     },
@@ -233,7 +233,7 @@
         "gibbon": 0,
         "capuchin": 2,
         "macaque": 1,
-        "baboon": 1,
+        "baboon": 0,
         "tamarin": 0,
         "mandrill": 0
       }
@@ -250,7 +250,7 @@
         "gibbon": 1,
         "capuchin": 0,
         "macaque": 1,
-        "baboon": 0,
+        "baboon": -1,
         "tamarin": 2,
         "mandrill": -1
       }
@@ -260,62 +260,62 @@
     "chimpanzee": {
       "name": "Chimpanzé",
       "emoji": "🐒",
-      "description": "Intelligent et social, tu es un leader né ! Tu excelles dans la résolution de problèmes et n'hésites pas à défendre tes proches. Tu maîtrises l'art des outils et des stratégies, et tu sais naviguer les dynamiques de groupe avec habileté.",
-      "traits": ["Intelligent", "Social", "Leader", "Stratège", "Protecteur"]
+      "description": "Intelligent et politique, tu maîtrises l'art des alliances et de la stratégie sociale ! Tu excelles dans l'utilisation d'outils et la résolution de problèmes. Leader né, tu sais grimper dans la hiérarchie grâce à ton intelligence autant qu'à ta force.",
+      "traits": ["Stratège", "Social", "Leader", "Utilisateur d'outils", "Politique"]
     },
     "bonobo": {
       "name": "Bonobo",
       "emoji": "🦧",
-      "description": "Pacifiste et hédoniste, tu privilégies l'harmonie et le plaisir ! Dans ta société matriarcale, tu résous les conflits par la diplomatie et l'affection plutôt que par la violence. Pour toi, la vie est faite pour être partagée et appréciée.",
-      "traits": ["Pacifique", "Affectueux", "Diplomate", "Joueur", "Empathique"]
+      "description": "Pacifiste et hédoniste, tu vis dans une société où les femmes mènent la danse ! Tu résous tous les conflits par l'affection et la diplomatie plutôt que par la violence. Pour toi, le plaisir et l'harmonie du groupe passent avant tout.",
+      "traits": ["Pacifique", "Affectueux", "Diplomate", "Hédoniste", "Matriarcal"]
     },
     "gorilla": {
       "name": "Gorille",
       "emoji": "🦍",
-      "description": "Protecteur et familial, tu es le pilier de ton groupe ! Malgré ta force imposante, tu es un géant doux qui préfère la paix. Tu prends soin des tiens avec dévouement et tu inspires le respect naturellement.",
-      "traits": ["Protecteur", "Familial", "Calme", "Fort", "Dévoué"]
+      "description": "Géant doux et protecteur, tu es le pilier de ta famille ! Malgré ta force impressionnante, tu préfères la paix et tu n'affiches ta puissance que pour protéger les tiens. Tu es un mentor patient qui guide les plus jeunes avec sagesse.",
+      "traits": ["Protecteur", "Doux", "Familial", "Mentor", "Calme"]
     },
     "orangutan": {
       "name": "Orang-outan",
       "emoji": "🦧",
-      "description": "Penseur solitaire et indépendant, tu es un sage de la forêt ! Tu préfères la réflexion à l'agitation et tu as besoin de ton espace. Ton intelligence contemplative et ta patience sont remarquables, tu prends le temps de bien faire les choses.",
-      "traits": ["Réfléchi", "Indépendant", "Sage", "Patient", "Observateur"]
+      "description": "Penseur solitaire et patient, tu es le sage de la forêt ! Tu prends le temps de réfléchir avant d'agir et tu excelles dans la résolution de problèmes complexes. Ton indépendance est ta force, tu n'as pas besoin des autres pour t'épanouir.",
+      "traits": ["Solitaire", "Réfléchi", "Patient", "Ingénieux", "Indépendant"]
     },
     "gibbon": {
       "name": "Gibbon",
       "emoji": "🐵",
-      "description": "Romantique et fidèle, tu es l'âme sœur idéale ! Tu formes des couples pour la vie et tu chantes des duos avec ton partenaire. Ta loyauté est légendaire et tu défends ton petit territoire avec passion.",
-      "traits": ["Fidèle", "Romantique", "Loyal", "Territorial", "Mélodieux"]
+      "description": "Romantique et fidèle, tu es l'âme sœur idéale ! Tu formes un couple pour la vie et tu chantes des duos avec ton partenaire chaque matin. Territorial et dévoué, tu défends ton petit paradis familial avec passion.",
+      "traits": ["Monogame", "Chanteur", "Fidèle", "Territorial", "Romantique"]
     },
     "capuchin": {
       "name": "Capucin",
       "emoji": "🐒",
-      "description": "Curieux et espiègle, tu es le petit génie du groupe ! Toujours à explorer et à inventer, tu utilises des outils avec créativité. Ta malice n'a d'égale que ton intelligence et tu apportes de la joie partout où tu passes.",
-      "traits": ["Curieux", "Joueur", "Malin", "Agile", "Inventif"]
+      "description": "Curieux et inventif, tu es le petit génie du monde des singes ! Tu casses des noix avec des pierres, tu inventes constamment de nouvelles solutions et ta curiosité n'a pas de limites. Espiègle et joueur, tu apportes de la joie partout.",
+      "traits": ["Inventif", "Curieux", "Joueur", "Malin", "Utilisateur d'outils"]
     },
     "macaque": {
       "name": "Macaque",
       "emoji": "🐵",
-      "description": "Adaptable et sociable, tu prospères dans n'importe quel environnement ! Tu comprends parfaitement les hiérarchies sociales et tu sais te faire des alliés. Ta capacité d'adaptation est légendaire, tu peux t'intégrer partout.",
-      "traits": ["Adaptable", "Sociable", "Hiérarchique", "Résilient", "Amical"]
+      "description": "Adaptable et socialement intelligent, tu prospères partout ! Tu comprends parfaitement les hiérarchies et tu sais naviguer les politiques de groupe. Ta capacité d'adaptation est légendaire - tu peux t'intégrer dans n'importe quel environnement.",
+      "traits": ["Adaptable", "Social", "Hiérarchique", "Opportuniste", "Résilient"]
     },
     "baboon": {
       "name": "Babouin",
       "emoji": "🐒",
-      "description": "Audacieux et opportuniste, tu n'as peur de rien ! Tu vis en grandes troupes et tu n'hésites pas à te battre pour ta place dans la hiérarchie. Direct et expressif, tu montres clairement tes intentions.",
-      "traits": ["Audacieux", "Opportuniste", "Direct", "Expressif", "Compétitif"]
+      "description": "Audacieux et direct, tu n'as peur de rien ! Tu vis dans de grandes troupes où la compétition est rude, et tu n'hésites pas à te battre pour ta place. Opportuniste et expressif, tu montres clairement tes intentions sans détour.",
+      "traits": ["Audacieux", "Compétitif", "Direct", "Opportuniste", "Expressif"]
     },
     "tamarin": {
       "name": "Tamarin",
       "emoji": "🐒",
-      "description": "Coopératif et dévoué, tu es le parent modèle ! Dans ta famille soudée, tout le monde participe à élever les petits. Tu formes des couples fidèles et tu crois profondément en l'entraide et le partage.",
-      "traits": ["Coopératif", "Dévoué", "Fidèle", "Familial", "Altruiste"]
+      "description": "Coopératif et dévoué, tu incarnes l'esprit de famille ! Chez toi, tout le monde participe à élever les petits, même les papas et les grands frères. Tu crois profondément en l'entraide et tu formes des liens durables avec ton partenaire.",
+      "traits": ["Coopératif", "Dévoué", "Parental", "Altruiste", "Familial"]
     },
     "mandrill": {
       "name": "Mandrill",
       "emoji": "🐵",
-      "description": "Charismatique et impressionnant, tu ne passes jamais inaperçu ! Avec ton apparence flamboyante, tu imposes le respect naturellement. Tu aimes ton indépendance tout en sachant te faire respecter dans le groupe.",
-      "traits": ["Charismatique", "Imposant", "Indépendant", "Expressif", "Dominant"]
+      "description": "Charismatique et imposant, tu ne passes jamais inaperçu ! Avec ton apparence flamboyante, tu imposes le respect naturellement. Tu apprécies ton indépendance et ta solitude, mais quand tu rejoins le groupe, c'est pour dominer.",
+      "traits": ["Charismatique", "Solitaire", "Dominant", "Impressionnant", "Coloré"]
     }
   }
 }
