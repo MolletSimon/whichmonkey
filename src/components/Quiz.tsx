@@ -89,7 +89,7 @@ export function Quiz() {
       <div className="question-counter">
         Question {currentQuestion + 1} / {data.questions.length}
       </div>
-      <div className="question-card">
+      <div className="question-card" key={question.id}>
         <p className="question-text">{question.text}</p>
         <div className="answers">
           {ANSWER_OPTIONS.map((option) => (
