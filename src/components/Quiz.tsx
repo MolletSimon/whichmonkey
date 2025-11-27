@@ -41,6 +41,10 @@ export function Quiz() {
       orangutan: 0,
       gibbon: 0,
       capuchin: 0,
+      macaque: 0,
+      baboon: 0,
+      tamarin: 0,
+      mandrill: 0,
     };
 
     for (const question of data.questions) {
@@ -91,6 +95,7 @@ export function Quiz() {
           {ANSWER_OPTIONS.map((option) => (
             <button
               key={option.value}
+              data-value={option.value}
               className={`answer-btn ${answers[question.id] === option.value ? 'selected' : ''}`}
               onClick={() => handleAnswer(option.value)}
             >
