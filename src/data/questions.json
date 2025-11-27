@@ -1,0 +1,321 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "Je préfère passer du temps en groupe plutôt que seul.",
+      "category": "social",
+      "scores": {
+        "chimpanzee": 2,
+        "bonobo": 2,
+        "gorilla": 1,
+        "orangutan": -2,
+        "gibbon": 0,
+        "capuchin": 1,
+        "macaque": 2,
+        "baboon": 2,
+        "tamarin": 1,
+        "mandrill": 1
+      }
+    },
+    {
+      "id": 2,
+      "text": "En cas de conflit, je préfère la diplomatie à la confrontation.",
+      "category": "conflict",
+      "scores": {
+        "chimpanzee": -1,
+        "bonobo": 2,
+        "gorilla": 0,
+        "orangutan": 1,
+        "gibbon": 1,
+        "capuchin": 0,
+        "macaque": -1,
+        "baboon": -2,
+        "tamarin": 1,
+        "mandrill": -1
+      }
+    },
+    {
+      "id": 3,
+      "text": "La famille est ce qu'il y a de plus important pour moi.",
+      "category": "family",
+      "scores": {
+        "chimpanzee": 1,
+        "bonobo": 1,
+        "gorilla": 2,
+        "orangutan": -1,
+        "gibbon": 2,
+        "capuchin": 0,
+        "macaque": 2,
+        "baboon": 1,
+        "tamarin": 2,
+        "mandrill": 0
+      }
+    },
+    {
+      "id": 4,
+      "text": "J'aime explorer et découvrir de nouvelles choses.",
+      "category": "curiosity",
+      "scores": {
+        "chimpanzee": 1,
+        "bonobo": 1,
+        "gorilla": -1,
+        "orangutan": 2,
+        "gibbon": 0,
+        "capuchin": 2,
+        "macaque": 1,
+        "baboon": 1,
+        "tamarin": 1,
+        "mandrill": 0
+      }
+    },
+    {
+      "id": 5,
+      "text": "Je suis très fidèle en amour, un partenaire pour la vie.",
+      "category": "couple",
+      "scores": {
+        "chimpanzee": -1,
+        "bonobo": -2,
+        "gorilla": 1,
+        "orangutan": 0,
+        "gibbon": 2,
+        "capuchin": 0,
+        "macaque": -1,
+        "baboon": -1,
+        "tamarin": 2,
+        "mandrill": -1
+      }
+    },
+    {
+      "id": 6,
+      "text": "Je n'hésite pas à défendre mon territoire ou mes proches.",
+      "category": "protection",
+      "scores": {
+        "chimpanzee": 2,
+        "bonobo": -1,
+        "gorilla": 2,
+        "orangutan": 0,
+        "gibbon": 1,
+        "capuchin": 1,
+        "macaque": 1,
+        "baboon": 2,
+        "tamarin": 1,
+        "mandrill": 2
+      }
+    },
+    {
+      "id": 7,
+      "text": "J'ai besoin de beaucoup de temps seul pour me ressourcer.",
+      "category": "solitude",
+      "scores": {
+        "chimpanzee": -1,
+        "bonobo": -2,
+        "gorilla": 0,
+        "orangutan": 2,
+        "gibbon": 0,
+        "capuchin": -1,
+        "macaque": -2,
+        "baboon": -1,
+        "tamarin": -1,
+        "mandrill": 1
+      }
+    },
+    {
+      "id": 8,
+      "text": "Je suis souvent le leader dans un groupe.",
+      "category": "leadership",
+      "scores": {
+        "chimpanzee": 2,
+        "bonobo": 0,
+        "gorilla": 2,
+        "orangutan": -1,
+        "gibbon": 0,
+        "capuchin": 1,
+        "macaque": 1,
+        "baboon": 2,
+        "tamarin": 0,
+        "mandrill": 2
+      }
+    },
+    {
+      "id": 9,
+      "text": "Le plaisir et le bien-être sont essentiels dans ma vie.",
+      "category": "pleasure",
+      "scores": {
+        "chimpanzee": 0,
+        "bonobo": 2,
+        "gorilla": 0,
+        "orangutan": 1,
+        "gibbon": 1,
+        "capuchin": 2,
+        "macaque": 0,
+        "baboon": 1,
+        "tamarin": 1,
+        "mandrill": 1
+      }
+    },
+    {
+      "id": 10,
+      "text": "Je préfère résoudre les problèmes par la réflexion plutôt que l'action.",
+      "category": "reflection",
+      "scores": {
+        "chimpanzee": 0,
+        "bonobo": 1,
+        "gorilla": -1,
+        "orangutan": 2,
+        "gibbon": 0,
+        "capuchin": 1,
+        "macaque": 0,
+        "baboon": -1,
+        "tamarin": 0,
+        "mandrill": -1
+      }
+    },
+    {
+      "id": 11,
+      "text": "J'aime jouer et faire des blagues, même à l'âge adulte.",
+      "category": "playfulness",
+      "scores": {
+        "chimpanzee": 1,
+        "bonobo": 2,
+        "gorilla": -1,
+        "orangutan": 0,
+        "gibbon": 1,
+        "capuchin": 2,
+        "macaque": 1,
+        "baboon": 1,
+        "tamarin": 2,
+        "mandrill": 0
+      }
+    },
+    {
+      "id": 12,
+      "text": "Je suis très attaché à mes routines et habitudes.",
+      "category": "routine",
+      "scores": {
+        "chimpanzee": 0,
+        "bonobo": 0,
+        "gorilla": 2,
+        "orangutan": 1,
+        "gibbon": 1,
+        "capuchin": -1,
+        "macaque": 1,
+        "baboon": 0,
+        "tamarin": 1,
+        "mandrill": 1
+      }
+    },
+    {
+      "id": 13,
+      "text": "Je préfère une relation de couple exclusive à des relations multiples.",
+      "category": "couple",
+      "scores": {
+        "chimpanzee": -1,
+        "bonobo": -2,
+        "gorilla": 1,
+        "orangutan": 1,
+        "gibbon": 2,
+        "capuchin": 0,
+        "macaque": -1,
+        "baboon": -2,
+        "tamarin": 2,
+        "mandrill": -2
+      }
+    },
+    {
+      "id": 14,
+      "text": "Je suis capable d'utiliser des outils ou des astuces pour arriver à mes fins.",
+      "category": "intelligence",
+      "scores": {
+        "chimpanzee": 2,
+        "bonobo": 1,
+        "gorilla": 0,
+        "orangutan": 2,
+        "gibbon": 0,
+        "capuchin": 2,
+        "macaque": 1,
+        "baboon": 1,
+        "tamarin": 0,
+        "mandrill": 0
+      }
+    },
+    {
+      "id": 15,
+      "text": "L'harmonie du groupe est plus importante que mes désirs personnels.",
+      "category": "harmony",
+      "scores": {
+        "chimpanzee": 0,
+        "bonobo": 2,
+        "gorilla": 1,
+        "orangutan": -2,
+        "gibbon": 1,
+        "capuchin": 0,
+        "macaque": 1,
+        "baboon": 0,
+        "tamarin": 2,
+        "mandrill": -1
+      }
+    }
+  ],
+  "monkeyTypes": {
+    "chimpanzee": {
+      "name": "Chimpanzé",
+      "emoji": "🐒",
+      "description": "Intelligent et social, tu es un leader né ! Tu excelles dans la résolution de problèmes et n'hésites pas à défendre tes proches. Tu maîtrises l'art des outils et des stratégies, et tu sais naviguer les dynamiques de groupe avec habileté.",
+      "traits": ["Intelligent", "Social", "Leader", "Stratège", "Protecteur"]
+    },
+    "bonobo": {
+      "name": "Bonobo",
+      "emoji": "🦧",
+      "description": "Pacifiste et hédoniste, tu privilégies l'harmonie et le plaisir ! Dans ta société matriarcale, tu résous les conflits par la diplomatie et l'affection plutôt que par la violence. Pour toi, la vie est faite pour être partagée et appréciée.",
+      "traits": ["Pacifique", "Affectueux", "Diplomate", "Joueur", "Empathique"]
+    },
+    "gorilla": {
+      "name": "Gorille",
+      "emoji": "🦍",
+      "description": "Protecteur et familial, tu es le pilier de ton groupe ! Malgré ta force imposante, tu es un géant doux qui préfère la paix. Tu prends soin des tiens avec dévouement et tu inspires le respect naturellement.",
+      "traits": ["Protecteur", "Familial", "Calme", "Fort", "Dévoué"]
+    },
+    "orangutan": {
+      "name": "Orang-outan",
+      "emoji": "🦧",
+      "description": "Penseur solitaire et indépendant, tu es un sage de la forêt ! Tu préfères la réflexion à l'agitation et tu as besoin de ton espace. Ton intelligence contemplative et ta patience sont remarquables, tu prends le temps de bien faire les choses.",
+      "traits": ["Réfléchi", "Indépendant", "Sage", "Patient", "Observateur"]
+    },
+    "gibbon": {
+      "name": "Gibbon",
+      "emoji": "🐵",
+      "description": "Romantique et fidèle, tu es l'âme sœur idéale ! Tu formes des couples pour la vie et tu chantes des duos avec ton partenaire. Ta loyauté est légendaire et tu défends ton petit territoire avec passion.",
+      "traits": ["Fidèle", "Romantique", "Loyal", "Territorial", "Mélodieux"]
+    },
+    "capuchin": {
+      "name": "Capucin",
+      "emoji": "🐒",
+      "description": "Curieux et espiègle, tu es le petit génie du groupe ! Toujours à explorer et à inventer, tu utilises des outils avec créativité. Ta malice n'a d'égale que ton intelligence et tu apportes de la joie partout où tu passes.",
+      "traits": ["Curieux", "Joueur", "Malin", "Agile", "Inventif"]
+    },
+    "macaque": {
+      "name": "Macaque",
+      "emoji": "🐵",
+      "description": "Adaptable et sociable, tu prospères dans n'importe quel environnement ! Tu comprends parfaitement les hiérarchies sociales et tu sais te faire des alliés. Ta capacité d'adaptation est légendaire, tu peux t'intégrer partout.",
+      "traits": ["Adaptable", "Sociable", "Hiérarchique", "Résilient", "Amical"]
+    },
+    "baboon": {
+      "name": "Babouin",
+      "emoji": "🐒",
+      "description": "Audacieux et opportuniste, tu n'as peur de rien ! Tu vis en grandes troupes et tu n'hésites pas à te battre pour ta place dans la hiérarchie. Direct et expressif, tu montres clairement tes intentions.",
+      "traits": ["Audacieux", "Opportuniste", "Direct", "Expressif", "Compétitif"]
+    },
+    "tamarin": {
+      "name": "Tamarin",
+      "emoji": "🐒",
+      "description": "Coopératif et dévoué, tu es le parent modèle ! Dans ta famille soudée, tout le monde participe à élever les petits. Tu formes des couples fidèles et tu crois profondément en l'entraide et le partage.",
+      "traits": ["Coopératif", "Dévoué", "Fidèle", "Familial", "Altruiste"]
+    },
+    "mandrill": {
+      "name": "Mandrill",
+      "emoji": "🐵",
+      "description": "Charismatique et impressionnant, tu ne passes jamais inaperçu ! Avec ton apparence flamboyante, tu imposes le respect naturellement. Tu aimes ton indépendance tout en sachant te faire respecter dans le groupe.",
+      "traits": ["Charismatique", "Imposant", "Indépendant", "Expressif", "Dominant"]
+    }
+  }
+}
